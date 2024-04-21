@@ -1,1 +1,3 @@
 # Leetcode
+Hi People 👋
+In this repositoy i am uploading the leetcode problems i solved on daily basis.....
