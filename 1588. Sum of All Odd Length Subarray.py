@@ -1,5 +1,5 @@
-Time Complexity -> O(n)
-space Complexity -> O(1)
+#Time Complexity -> O(n)
+#space Complexity -> O(1)
 
 # approach -> try to count the number the times we need to sum the same number in the answer
 #          means->count the frequency of each number
